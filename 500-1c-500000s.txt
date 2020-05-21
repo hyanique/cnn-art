@@ -1,0 +1,71 @@
+********************************
+using tea as content iamge and Monet as stylier
+
+500 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000034 Content Loss: 6.913684
+run [100]: Style Loss : 0.000014 Content Loss: 5.737328
+run [150]: Style Loss : 0.000004 Content Loss: 4.762864
+run [200]: Style Loss : 0.000002 Content Loss: 4.137714
+run [250]: Style Loss : 0.000001 Content Loss: 3.805650
+run [300]: Style Loss : 0.000001 Content Loss: 3.614213
+run [350]: Style Loss : 0.000001 Content Loss: 3.512686
+run [400]: Style Loss : 0.000001 Content Loss: 3.451936
+run [450]: Style Loss : 0.000001 Content Loss: 3.405229
+run [500]: Style Loss : 0.000001 Content Loss: 3.373956
+
+********************************
+using lilypond as content iamge and VanGogh as stylier
+
+500 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000073 Content Loss: 20.969671
+run [100]: Style Loss : 0.000032 Content Loss: 16.165827
+run [150]: Style Loss : 0.000018 Content Loss: 13.564178
+run [200]: Style Loss : 0.000009 Content Loss: 12.397572
+run [250]: Style Loss : 0.000005 Content Loss: 11.622074
+run [300]: Style Loss : 0.000003 Content Loss: 10.969766
+run [350]: Style Loss : 0.000002 Content Loss: 10.557234
+run [400]: Style Loss : 0.000002 Content Loss: 10.293792
+run [450]: Style Loss : 0.000002 Content Loss: 10.109801
+run [500]: Style Loss : 0.000002 Content Loss: 9.986620
+
+********************************
+using bouquet as content iamge and Renoir as stylier
+
+500 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000051 Content Loss: 14.528090
+run [100]: Style Loss : 0.000017 Content Loss: 9.537026
+run [150]: Style Loss : 0.000009 Content Loss: 7.402080
+run [200]: Style Loss : 0.000005 Content Loss: 6.402885
+run [250]: Style Loss : 0.000003 Content Loss: 5.811033
+run [300]: Style Loss : 0.000002 Content Loss: 5.450016
+run [350]: Style Loss : 0.000001 Content Loss: 5.216850
+run [400]: Style Loss : 0.000001 Content Loss: 5.055975
+run [450]: Style Loss : 0.000001 Content Loss: 4.955192
+run [500]: Style Loss : 0.000001 Content Loss: 4.883930
+
+********************************
+using ballerina as content iamge and Degas as stylier
+
+500 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000007 Content Loss: 3.583487
+run [100]: Style Loss : 0.000003 Content Loss: 2.786112
+run [150]: Style Loss : 0.000002 Content Loss: 2.508521
+run [200]: Style Loss : 0.000001 Content Loss: 2.377397
+run [250]: Style Loss : 0.000001 Content Loss: 2.302406
+run [300]: Style Loss : 0.000001 Content Loss: 2.252628
+run [350]: Style Loss : 0.000000 Content Loss: 2.219731
+run [400]: Style Loss : 0.000000 Content Loss: 2.195897
+run [450]: Style Loss : 0.000000 Content Loss: 2.179383
+run [500]: Style Loss : 0.000000 Content Loss: 2.168468
