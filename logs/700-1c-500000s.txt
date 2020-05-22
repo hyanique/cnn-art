@@ -1,0 +1,87 @@
+********************************
+using pavilion as content image and WangMeng as stylier
+
+700 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000048 Content Loss: 14.727825
+run [100]: Style Loss : 0.000012 Content Loss: 10.109303
+run [150]: Style Loss : 0.000005 Content Loss: 8.084756
+run [200]: Style Loss : 0.000003 Content Loss: 7.219440
+run [250]: Style Loss : 0.000002 Content Loss: 6.792154
+run [300]: Style Loss : 0.000001 Content Loss: 6.548885
+run [350]: Style Loss : 0.000001 Content Loss: 6.400814
+run [400]: Style Loss : 0.000001 Content Loss: 6.303427
+run [450]: Style Loss : 0.000001 Content Loss: 6.231852
+run [500]: Style Loss : 0.000001 Content Loss: 6.184825
+run [550]: Style Loss : 0.000001 Content Loss: 6.145601
+run [600]: Style Loss : 0.000001 Content Loss: 6.117196
+run [650]: Style Loss : 0.000001 Content Loss: 6.098382
+run [700]: Style Loss : 0.000001 Content Loss: 6.077210
+
+********************************
+using bouquet as content image and Renoir as stylier
+
+700 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000045 Content Loss: 13.822706
+run [100]: Style Loss : 0.000016 Content Loss: 9.225152
+run [150]: Style Loss : 0.000008 Content Loss: 7.253565
+run [200]: Style Loss : 0.000004 Content Loss: 6.293510
+run [250]: Style Loss : 0.000003 Content Loss: 5.774913
+run [300]: Style Loss : 0.000002 Content Loss: 5.442182
+run [350]: Style Loss : 0.000001 Content Loss: 5.226026
+run [400]: Style Loss : 0.000001 Content Loss: 5.068725
+run [450]: Style Loss : 0.000001 Content Loss: 4.975939
+run [500]: Style Loss : 0.000001 Content Loss: 4.910243
+run [550]: Style Loss : 0.000001 Content Loss: 4.862488
+run [600]: Style Loss : 0.000001 Content Loss: 4.828649
+run [650]: Style Loss : 0.000001 Content Loss: 4.804255
+run [700]: Style Loss : 0.000001 Content Loss: 4.786065
+
+********************************
+using tea as content image and Monet as stylier
+
+700 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000035 Content Loss: 6.592249
+run [100]: Style Loss : 0.000011 Content Loss: 5.489392
+run [150]: Style Loss : 0.000004 Content Loss: 4.691357
+run [200]: Style Loss : 0.000002 Content Loss: 4.049661
+run [250]: Style Loss : 0.000001 Content Loss: 3.714692
+run [300]: Style Loss : 0.000001 Content Loss: 3.529461
+run [350]: Style Loss : 0.000001 Content Loss: 3.430281
+run [400]: Style Loss : 0.000001 Content Loss: 3.366151
+run [450]: Style Loss : 0.000001 Content Loss: 3.323359
+run [500]: Style Loss : 0.000001 Content Loss: 3.291515
+run [550]: Style Loss : 0.000001 Content Loss: 3.267285
+run [600]: Style Loss : 0.000001 Content Loss: 3.248414
+run [650]: Style Loss : 0.000001 Content Loss: 3.232556
+run [700]: Style Loss : 0.000001 Content Loss: 3.219859
+
+********************************
+using lilypond as content image and VanGogh as stylier
+
+700 steps with 1 content weight and 500000 style weight
+
+Building the model......
+Optimizing......
+run [50]: Style Loss : 0.000070 Content Loss: 20.527573
+run [100]: Style Loss : 0.000030 Content Loss: 15.688468
+run [150]: Style Loss : 0.000018 Content Loss: 13.199176
+run [200]: Style Loss : 0.000009 Content Loss: 12.138001
+run [250]: Style Loss : 0.000005 Content Loss: 11.363470
+run [300]: Style Loss : 0.000003 Content Loss: 10.744123
+run [350]: Style Loss : 0.000002 Content Loss: 10.342743
+run [400]: Style Loss : 0.000002 Content Loss: 10.110954
+run [450]: Style Loss : 0.000002 Content Loss: 9.934574
+run [500]: Style Loss : 0.000002 Content Loss: 9.811182
+run [550]: Style Loss : 0.000001 Content Loss: 9.719133
+run [600]: Style Loss : 0.000001 Content Loss: 9.646835
+run [650]: Style Loss : 0.000001 Content Loss: 9.591137
+run [700]: Style Loss : 0.000001 Content Loss: 9.541681
